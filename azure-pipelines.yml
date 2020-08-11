@@ -10,5 +10,4 @@ extends:
   parameters:
     package: protobuf
     package_version: 3.11.4
-    source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
