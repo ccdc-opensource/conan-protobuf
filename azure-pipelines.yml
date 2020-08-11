@@ -6,7 +6,7 @@ resources:
       ref: refs/heads/development
 
 extends:
-  template: third-party-library-all-platforms-from-conan-center.yml@templates
+  template: third-party-library-all-platforms-from-local-recipe.yml@templates
   parameters:
     package: protobuf
     package_version: 3.11.4
