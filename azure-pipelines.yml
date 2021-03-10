@@ -11,3 +11,4 @@ extends:
     package: protobuf
     package_version: 3.11.4
     destination_repository: ccdc-3rdparty-conan
+    use_release_zlib_profile: True
